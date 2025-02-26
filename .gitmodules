@@ -4,3 +4,6 @@
 [submodule "Autoencoders"]
 	path = Autoencoders
 	url = https://github.com/michaeldisanto1818/Autoencoders.git
+[submodule "CIFAR10"]
+	path = CIFAR10
+	url = https://github.com/michaeldisanto1818/CIFAR10.git
