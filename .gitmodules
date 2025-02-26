@@ -7,3 +7,6 @@
 [submodule "CIFAR10"]
 	path = CIFAR10
 	url = https://github.com/michaeldisanto1818/CIFAR10.git
+[submodule "Edgefinder"]
+	path = Edgefinder
+	url = https://github.com/michaeldisanto1818/Edgefinder.git
