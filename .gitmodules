@@ -25,3 +25,6 @@
 [submodule "Unsupervised-Learning"]
 	path = Unsupervised-Learning
 	url = https://github.com/michaeldisanto1818/Unsupervised-Learning.git
+[submodule "Variational-Autoencoders"]
+	path = Variational-Autoencoders
+	url = https://github.com/michaeldisanto1818/Variational-Autoencoders.git
