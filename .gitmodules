@@ -1,3 +1,6 @@
 [submodule "augs"]
 	path = augs
 	url = https://github.com/michaeldisanto1818/augs.git
+[submodule "Autoencoders"]
+	path = Autoencoders
+	url = https://github.com/michaeldisanto1818/Autoencoders.git
