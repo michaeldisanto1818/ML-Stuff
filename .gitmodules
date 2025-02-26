@@ -10,3 +10,6 @@
 [submodule "Edgefinder"]
 	path = Edgefinder
 	url = https://github.com/michaeldisanto1818/Edgefinder.git
+[submodule "Norming"]
+	path = Norming
+	url = https://github.com/michaeldisanto1818/Norming.git
