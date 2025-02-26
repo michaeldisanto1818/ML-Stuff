@@ -22,3 +22,6 @@
 [submodule "resnet"]
 	path = resnet
 	url = https://github.com/michaeldisanto1818/resnet.git
+[submodule "Unsupervised-Learning"]
+	path = Unsupervised-Learning
+	url = https://github.com/michaeldisanto1818/Unsupervised-Learning.git
