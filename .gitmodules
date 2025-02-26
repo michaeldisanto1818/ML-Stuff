@@ -19,3 +19,6 @@
 [submodule "MNIST"]
 	path = MNIST
 	url = https://github.com/michaeldisanto1818/MNIST.git
+[submodule "resnet"]
+	path = resnet
+	url = https://github.com/michaeldisanto1818/resnet.git
