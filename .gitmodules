@@ -16,3 +16,6 @@
 [submodule "Saving"]
 	path = Saving
 	url = https://github.com/michaeldisanto1818/Saving.git
+[submodule "MNIST"]
+	path = MNIST
+	url = https://github.com/michaeldisanto1818/MNIST.git
